@@ -70,7 +70,7 @@ Thank you for playing, contributing, and supporting **Jungle Game**.
 ## 📬 Contact  
 
 - **Email:** shubhamkashyap9501@gmail.com
-- **LinkedIn:** [Shubham_Kumar](https://www.linkedin.com/in/shubham9797/)
+- **LinkedIn:** [Shubham_Kumar](https://www.linkedin.com/in/shubham0786/)
 - **Github:** [Shubham_Kumar](https://github.com/ShubhamKumar0786)  
 
 ---
